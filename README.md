@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felicia Mayeyane</h1>
 <h3 align="center">A passionate Software Developer from South Africa</h3>
 
-- 🌱 I’m currently learning **Software Development and Mobile App Development**
+- 💻 I’m currently learning **Software Development and Data Science**
 
-- 📝 I regularly write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
+- 📓 I  write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/felicia-mayeyane/**
+- 💬 How to reach me **https://www.linkedin.com/in/felicia-mayeyane/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
