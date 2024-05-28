@@ -7,6 +7,7 @@
 - 📝 I regularly write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/felicia-mayeyane/**
+- CodeWars friends?  **https://www.codewars.com/users/FeliciaM**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
