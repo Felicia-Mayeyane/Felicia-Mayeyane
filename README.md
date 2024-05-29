@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Felicia Mayeyane</h1>
 <h3 align="center"> Full Stack Developer </h3>
 
-- 🌱 I’m currently learning **Software Development Data Science**
+- 🌱 I’m currently learning **Software Development & Data Science**
 
 - 📝 I regularly write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
 
