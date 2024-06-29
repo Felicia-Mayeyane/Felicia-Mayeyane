@@ -5,11 +5,11 @@
 
  <p> 💡  I am passionate about building robust and accessible applications. I believe in creating seamless user experiences through clean and efficient code. My passion lies in crafting solutions that not only meet the functional requirements but also prioritize inclusivity and usability.</p>
 
- <p> 💻  I specialize in full stack development using modern technologies such as React. I use the MERN STACK🔥 I also have experience working with other programming languages such as PHP and C++ . I have experience in mobile development using Flutter, Dart and Firebase</p>
+ <p> 💻  I specialize in full stack development using modern technologies such as React. I use the MERN STACK🔥 I also have experience working with other programming languages such as PHP and C++ . I have experience in mobile development using Flutter, Dart and Firebase.</p>
 
- <p> 📖  I am always open to learn new tools and development methodologies and share my knowledge with colleagues. I value team work and opportunities for continuous growth as a developer</p>
+ <p> 📖  I am always open to learn new tools and development methodologies and share my knowledge with colleagues. I value team work and opportunities for continuous growth as a developer.</p>
 
-<p> ☄️  If you are looking for a team player and a goal oriented full stack developer, feel free to get in touch! I am happy to discuss potential collaboration opportities</p>
+<p> ☄️  If you are looking for a team player and a goal oriented full stack developer, feel free to get in touch! I am happy to discuss potential collaboration opportunities.</p>
 
 
 - 🌱 I’m currently learning **Software Development & Data Science**
