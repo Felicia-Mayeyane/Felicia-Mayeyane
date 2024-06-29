@@ -1,10 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Felicia Mayeyane</h1>
 <h3 align="center"> Full Stack Developer </h3>
+ <h3 align="center"> About me 👩‍🎓 </h3>
 
-<p> Full Stack Developer with a keen interest in creating robust software applications with user friendly interfaces </p> ♦️ <p> I enjoy working with JavaScript</p>
+ <p> 💡I am passionate about building robust and accessible applications. I believe in creating seamless user experiences through clean, efficient code and intuitive design. My passion lies in crafting solutions that not only meet the functional requirements but also prioritize inclusivity and usability.</p>
 
-👩‍🎓 <p> Constantly Learning.. </p>
+ <p> 💻I specialize in full stack development using modern technologies such as React. I use the MERN STACK. I also have experience working with other programming languages such as PHP</p>
+
+ <p> 📖 I am always open to learn new tools and development methodologies and share my knowledge with colleagues. I value team work and opportunities for continuous growth as a developer</p>
+
+<p> ☄️ If you are looking for a team player and a goal oriented full stack developer, feel free to get in touch! I am happy to discuss potential collaboration opportities</p>
+
 
 - 🌱 I’m currently learning **Software Development & Data Science**
 
