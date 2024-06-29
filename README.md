@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felicia-mayeyane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felicia-mayeyane/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://feliciamayeyane.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://feliciamayeyane.hashnode.dev/" height="30" width="40" /></a>
-<a href="/https://rss.app/feed/trw0hbnktkplb1vz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feed/trw0hbnktkplb1vz" height="30" width="40" /></a>
+<a href="/https://rss.app/feed/trw0hbnktkplb1vz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feed/trw0hbnktkplb1vz" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
