@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Felicia Mayeyane</h1>
 <h3 align="center"> Full Stack Developer </h3>
 
+<p> Full Stack Developer with a keen interest in creating robust software applications with user friendly interfaces </p> ♦️ <p> I enjoy working with JavaScript</p>
+
+👩‍🎓 <p> Constantly Learning.. </p>
+
 - 🌱 I’m currently learning **Software Development & Data Science**
 
 - 📝 I regularly write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
