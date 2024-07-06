@@ -9,8 +9,6 @@
 
  <p> 📖  I am always open to learning new tools, development methodologies and sharing my knowledge with colleagues. I value team work and opportunities for continuous growth as a developer.</p>
 
-<p> ☄️  If you are looking for a team player and a goal oriented full stack developer, feel free to get in touch! I am happy to discuss potential collaboration opportunities.</p>
-
 
 - 🌱 I’m currently learning **Software Development & Data Science**
 
