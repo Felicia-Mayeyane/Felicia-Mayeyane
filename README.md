@@ -17,9 +17,6 @@
 - 📫 How to reach me **https://www.linkedin.com/in/felicia-mayeyane/**
 - CodeWars friends?  **https://www.codewars.com/users/FeliciaM**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
