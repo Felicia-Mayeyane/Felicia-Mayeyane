@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Felicia Mayeyane</h1>
+<h1 align="center">Hello 👋, I'm Felicia Mayeyane</h1>
 <h3 align="center"> Full Stack Developer </h3>
  <h3 align="center"> About me 👩‍🎓 </h3>
 
