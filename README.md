@@ -10,7 +10,7 @@
  <p> 📖  I am always open to learning new tools, development methodologies and sharing my knowledge with colleagues. I value team work and opportunities for continuous growth as a developer.</p>
 
 
-- 🌱 I’m currently learning **Software Development & Data Science.**
+- 🌱 I’m currently learning **Software Development & Data Science**
 
 - 📝 I regularly write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
 
