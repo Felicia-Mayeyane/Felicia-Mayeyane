@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello 👋, I'm Felicia Mayeyane</h1>
+<h1 align="center">Hello 👋, I'm Felicia Mayeyane.</h1>
 <h3 align="center"> Full Stack Developer </h3>
  <h3 align="center"> About me 👩‍🎓 </h3>
 
@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/felicia-mayeyane/**
-- CodeWars friends?  **https://www.codewars.com/users/FeliciaM**
+- CodeWars friends??  **https://www.codewars.com/users/FeliciaM**
 
 
 <h3 align="left">Connect with me:</h3>
