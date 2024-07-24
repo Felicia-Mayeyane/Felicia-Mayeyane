@@ -3,7 +3,7 @@
 <h3 align="center"> Full Stack Developer </h3>
  <h3 align="center"> About me 👩‍🎓 </h3>
 
- <p> 💡  I am passionate about building robust and accessible applications. I believe in creating seamless user experiences through clean and efficient code. My passion lies in crafting solutions that not only meet the functional requirements but also prioritize inclusivity and usability.</p>
+ <p> 💡  I am passionate about building robust and accessible applications.I believe in creating seamless user experiences through clean and efficient code. My passion lies in crafting solutions that not only meet the functional requirements but also prioritize inclusivity and usability.</p>
 
  <p> 💻  I specialize in full stack development using modern technologies such as React. I use the MERN STACK🔥 I also have experience working with other programming languages such as PHP, Java and C++ . I have experience in mobile development using Flutter, Dart and Firebase.</p>
 
