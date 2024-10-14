@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋  I'm Felicia. </h1>
 <h3 align="center"> Full Stack Developer. </h3>
- <h3 align="center"> About me 👩‍🎓 </h3>
+ <h3 align="center"> About me 👩‍🎓. </h3>
 
  <p> 💡  I am passionate about building robust and accessible applications.I believe in creating seamless user experiences through clean and efficient code. My passion lies in crafting solutions that not only meet the functional requirements but also prioritize inclusivity and usability.</p>
 
