@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Software Development & Data Science.**
 
-- 📝 I write articles on [https://feliciamayeyane.hashnode.dev/](https://feliciamayeyane.hashnode.dev/)
-
 - 📫 How to reach me **https://www.linkedin.com/in/felicia-mayeyane/**
 
 
