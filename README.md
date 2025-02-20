@@ -11,12 +11,14 @@
 <li>Backend: Node.js, Express.js</li>
 <li>Database: MongoDB</li>
 </ul>
+
+
+<p> 🛠️ As a Software Project Manager in an Agile team, I oversee the Software Development Life Cycle (SDLC), ensuring that projects are well-structured, delivered on time, and aligned with business goals. I collaborate closely with developers, testers, and stakeholders to optimize workflows, enhance collaboration, and drive successful project outcomes..</p>
+
+ 
  <p>🧪 In addition to development and project management, I have hands-on experience in both manual and automated software testing for web and mobile applications. I use Selenium and BrowserStack for test automation, test case management, and test runs, ensuring comprehensive test coverage and software reliability. I integrate Test-Driven Development (TDD) principles into my workflow to build scalable and maintainable applications.</p>
 
 
-
- <p> 🛠️ As a Software Project Manager in an Agile team, I oversee the Software Development Life Cycle (SDLC), ensuring that projects are well-structured, delivered on time, and aligned with business goals. I collaborate closely with developers, testers, and stakeholders to optimize workflows, enhance collaboration, and drive successful project outcomes..</p>
- 
 
  <p>📖 I am always open to learning new tools, development methodologies, and best practices. I value teamwork and continuous growth, both as a developer and as a leader in software development.</p>
 
