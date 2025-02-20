@@ -1,11 +1,18 @@
 
 <h1 align="center">Hello 👋  I'm Felicia. </h1>
-<h3 align="center"> Full Stack Developer. </h3>
+<h3 align="center"> Full Stack Developer | Software Project Manager | Software Tester </h3>
  <h3 align="center"> About me 👩‍🎓.</h3>
 
- <p> 💡   I am passionate about building robust and accessible applications.I believe in creating seamless user experiences through clean and efficient code. My passion lies in crafting solutions that not only meet the functional requirements but also prioritize inclusivity and usability.</p>
+ <p> 💡  I am passionate about building robust, high-quality software that prioritizes functionality, usability, and scalability. I believe in delivering seamless user experiences through clean, efficient, and maintainable code, while ensuring software meets the highest quality standards.</p>
+ 💻 As a Full Stack Developer, I specialize in modern web technologies, including:
+ <li>
+ Frontend: React, Next.js, TypeScript, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
+</li>
 
- <p> 💻   I specialize in full stack development using modern technologies. I also have experience working with programming languages such as JavaScript, Python and PHP. I have experience in mobile development using Flutter, Dart and Firebase.</p>
+
+ <p> 🛠️ As a Software Project Manager in an Agile team, I oversee the Software Development Life Cycle (SDLC), ensuring that projects are well-structured, delivered on time, and aligned with business goals. I collaborate closely with developers, testers, and stakeholders to optimize workflows, enhance collaboration, and drive successful project outcomes..</p>
 
  <p> 📖   I am always open to learning new tools, development methodologies and sharing my knowledge with colleagues. I value team work and opportunities for continuous growth as a developer.</p>
 
