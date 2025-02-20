@@ -5,11 +5,11 @@
 
  <p> 💡  I am passionate about building robust, high-quality software that prioritizes functionality, usability, and scalability. I believe in delivering seamless user experiences through clean, efficient, and maintainable code, while ensuring software meets the highest quality standards.</p>
  💻 As a Full Stack Developer, I specialize in modern web technologies, including:
-<li>
+
  <ul>Frontend: React, Next.js, TypeScript, JavaScript</ul>
 <ul>Backend: Node.js, Express.js</ul>
 <ul>Database: MongoDB</ul>
-</li>
+
 
 
  <p> 🛠️ As a Software Project Manager in an Agile team, I oversee the Software Development Life Cycle (SDLC), ensuring that projects are well-structured, delivered on time, and aligned with business goals. I collaborate closely with developers, testers, and stakeholders to optimize workflows, enhance collaboration, and drive successful project outcomes..</p>
