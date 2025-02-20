@@ -21,8 +21,6 @@
 
 
 
-- 📫  How to reach me **https://www.linkedin.com/in/felicia-mayeyane/**
-
 
 
 <h3 align="left">Connect with me:</h3>
