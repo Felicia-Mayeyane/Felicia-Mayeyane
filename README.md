@@ -4,7 +4,7 @@
  <h3 align="center"> About me 👩‍🎓</h3>
 
  <p> 💡  I am passionate about building robust, high-quality software that prioritizes functionality, usability, and scalability. I believe in delivering seamless user experiences through clean, efficient, and maintainable code, while ensuring software meets the highest quality standards.</p>
- 💻 As a Full Stack Developer, I specialize in modern web technologies, including:
+ 💻 As a Full Stack Developer, I specialize in modern web technologies, including.:
 
 <ul>
  <li>Frontend: React, Next.js, TypeScript, JavaScript</li>
