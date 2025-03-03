@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋  I'm Felicia. </h1>
 <h3 align="center">  Full Stack Developer |  Software Project Manager |  Software Tester. </h3>
- <h3 align="center"> About me 👩‍🎓</h3>
+ <h3 align="center"> About me  👩‍🎓</h3>
 
  <p> 💡  I am passionate about building robust, high-quality software that prioritizes functionality, usability, and scalability. I believe in delivering seamless user experiences through clean, efficient, and maintainable code, while ensuring software meets the highest quality standards.</p>
  💻 As a Full Stack Developer, I specialize in modern web technologies, including.:
