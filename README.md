@@ -1,41 +1,44 @@
 
 <h1 align="center">Hello👋  I'm Felicia. </h1>
 <h3 align="center">   Software Developer in Test (SDET) | Automation Enthusiast | Quality Advocate. </h3>
- <h3 align="center"> About me  👩‍🎓</h3>
 
- <p>  I’m passionate about building scalable, high-quality software through clean code, automation and continuous improvement.
-My background bridges software development, project management and quality assurance, giving me a well-rounded view of how great software is built — from concept to deployment.
+---
 
-These days, my main focus is test automation and ensuring product reliability in agile environments. I love designing tests that don’t just find bugs but prevent them, contributing to smoother releases and better user experiences.</p>
- 
+### 👩‍💻 About Me  
+I’m passionate about building **scalable, high-quality software** through clean code, automation, and continuous improvement.  
+My background bridges **software development**, **project management**, and **quality assurance**, giving me a well-rounded view of how great software is built — from concept to deployment.  
 
-🧠 What I Bring
+These days, my main focus is **test automation** and **ensuring product reliability** in agile environments. I love designing tests that don’t just find bugs but *prevent them*, contributing to smoother releases and better user experiences.  
 
-Automation Expertise: Building and maintaining test scripts using Selenium with Java, and working towards integrating automation into CI/CD pipelines.
+---
 
-Strong QA Foundation: Skilled in both manual and automated testing for web and mobile platforms, with a focus on test planning, execution, and reporting.
+### 🧠 What I Bring
+- **Automation Expertise:** Building and maintaining test scripts using **Selenium with Java**, and working towards integrating automation into CI/CD pipelines.  
+- **Strong QA Foundation:** Skilled in both **manual and automated testing** for web and mobile platforms, with a focus on test planning, execution, and reporting.  
+- **Developer Mindset:** Comfortable reading and writing code — experienced with **JavaScript, React, Node.js**, and **SQL**, enabling deeper collaboration with dev teams.  
+- **Project Management Experience:** Previously managed sprints, tracked deliverables, and facilitated agile ceremonies — I understand the full development lifecycle and how quality fits into it.  
 
-Developer Mindset: Comfortable reading and writing code — experienced with JavaScript, React, Node.js, and SQL, enabling deeper collaboration with dev teams.
+---
 
-Project Management Experience: Previously managed sprints, tracked deliverables, and facilitated agile ceremonies — I understand the full development lifecycle and how quality fits into it.
+### 🧰 Tech Stack
+**Languages:** Java, JavaScript, TypeScript, SQL  
+**Automation Tools:** Selenium, TestNG, JUnit, Postman  
+**Web Technologies:** React, Node.js, Express  
+**Databases:** MySQL, MongoDB  
+**Version Control & CI/CD:** Git, GitHub Actions, Jenkins  
+**Other:** Agile methodologies, Jira, Test case management tools  
+
+---
+
+### 🌱 What I’m Currently Exploring
+- Strengthening my **API and mobile test automation** skills  
+- Learning more about **CI/CD integration for automated tests**  
+- Expanding into **performance and security testing** principles  
 
 
-🧰 Tech Stack
 
-Languages: Java, JavaScript, TypeScript, SQL
-Automation Tools: Selenium, TestNG, JUnit, Postman
-Web Technologies: React, Node.js, Express
-Databases: MySQL, MongoDB
-Version Control & CI/CD: Git, GitHub Actions, Jenkins
-Other: Agile methodologies, Jira, Test case management tools
- 
-🌱 What I’m Currently Exploring
+> *"Quality is not just about testing at the end — it’s about building confidence at every step."*
 
-Strengthening my API and mobile test automation skills
-
-Learning more about CI/CD integration for automated tests
-
-Expanding into performance and security testing principles
 
 
 
