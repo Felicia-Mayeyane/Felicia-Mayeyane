@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me  
 I’m passionate about building **scalable, high-quality software** through clean code, automation, and continuous improvement.  
-My background bridges **software development**, **project management**, and **quality assurance**, giving me a well-rounded view of how great software is built — from concept to deployment.  
+My background bridges **software development**, **project management** and **quality assurance**, giving me a well-rounded view of how great software is built — from concept to deployment.  
 
 These days, my main focus is **test automation** and **ensuring product reliability** in agile environments. I love designing tests that don’t just find bugs but *prevent them*, contributing to smoother releases and better user experiences.  
 
