@@ -1,28 +1,41 @@
 
 <h1 align="center">Hello👋  I'm Felicia. </h1>
-<h3 align="center">   Full Stack Developer  |   Software Project Manager |   Software Tester. </h3>
+<h3 align="center">   Software Developer in Test (SDET) | Automation Enthusiast | Quality Advocate. </h3>
  <h3 align="center"> About me  👩‍🎓</h3>
 
- <p>  I am passionate about building robust, high-quality software that prioritizes functionality, usability, and scalability. I believe in delivering seamless user experiences through clean, efficient and maintainable code, while ensuring software meets the highest quality standards.</p>
- 💻 As a Full Stack Developer, I specialize in modern web technologies, including.:
+ <p>  I’m passionate about building scalable, high-quality software through clean code, automation and continuous improvement.
+My background bridges software development, project management and quality assurance, giving me a well-rounded view of how great software is built — from concept to deployment.
 
-<ul>
- <li>Frontend: React,TypeScript, JavaScript</li>
-<li>Backend: Node.js, Express.js</li>
-<li>Database: MongoDB, MySQL</li>
-</ul>
-
-
-<p>  As a Software Project Manager in an Agile team, I oversee the Software Development Life Cycle ensuring that projects are well-structured, delivered on time and aligned with business goals. I collaborate closely with developers, testers and stakeholders to optimize workflows, enhance collaboration and drive successful project outcomes..</p>
-
+These days, my main focus is test automation and ensuring product reliability in agile environments. I love designing tests that don’t just find bugs but prevent them, contributing to smoother releases and better user experiences.</p>
  
- <p> In addition to development and project management. I have hands-on experience in both manual and automated software testing for web and mobile applications. I use Java Selenium for test automation, test case management and test runs, ensuring comprehensive test coverage and software reliability. I integrate Test-Driven Development (TDD) principles into my workflow to build scalable and maintainable applications.</p>
+
+🧠 What I Bring
+
+Automation Expertise: Building and maintaining test scripts using Selenium with Java, and working towards integrating automation into CI/CD pipelines.
+
+Strong QA Foundation: Skilled in both manual and automated testing for web and mobile platforms, with a focus on test planning, execution, and reporting.
+
+Developer Mindset: Comfortable reading and writing code — experienced with JavaScript, React, Node.js, and SQL, enabling deeper collaboration with dev teams.
+
+Project Management Experience: Previously managed sprints, tracked deliverables, and facilitated agile ceremonies — I understand the full development lifecycle and how quality fits into it.
 
 
+🧰 Tech Stack
 
- <p>📖 I am always open to learning new tools, development methodologies, and best practices. I value teamwork and continuous growth, both as a developer and as a leader in software development.</p>
+Languages: Java, JavaScript, TypeScript, SQL
+Automation Tools: Selenium, TestNG, JUnit, Postman
+Web Technologies: React, Node.js, Express
+Databases: MySQL, MongoDB
+Version Control & CI/CD: Git, GitHub Actions, Jenkins
+Other: Agile methodologies, Jira, Test case management tools
+ 
+🌱 What I’m Currently Exploring
 
+Strengthening my API and mobile test automation skills
 
+Learning more about CI/CD integration for automated tests
+
+Expanding into performance and security testing principles
 
 
 
