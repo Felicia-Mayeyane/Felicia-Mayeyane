@@ -19,12 +19,13 @@ These days, my main focus is **test automation** and **ensuring product reliabil
 
 
 ### 🧰 Tech Stack
-**Languages:** Java, JavaScript, TypeScript, SQL  
-**Automation Tools:** Selenium, TestNG, JUnit, Postman  
-**Web Technologies:** React, Node.js, Express  
+**Languages:** Java, JavaScript 
+**Automation Tools:** Selenium, TestNG, JMeter, Rest Assured, Cucumber, Postman  
+**Web Technologies:** React, Node.js, Express
+**Mobile:** Android Studio, React Native
 **Databases:** MySQL, MongoDB  
 **Version Control & CI/CD:** Git, GitHub Actions, Jenkins  
-**Other:** Agile methodologies, Jira, Test case management tools  
+**Other:** Agile methodologies, Scrum Framework, Jira, Test case management tools  
 
 
 ### 🌱 What I’m Currently Exploring
