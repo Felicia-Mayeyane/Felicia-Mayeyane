@@ -15,7 +15,7 @@ These days, my main focus is **test automation** and **ensuring product reliabil
 - **Automation Expertise:** Building and maintaining test scripts using **Selenium with Java**, and working towards integrating automation into CI/CD pipelines.  
 - **Strong QA Foundation:** Skilled in both **manual and automated testing** for web and mobile platforms, with a focus on test planning, execution, and reporting.  
 - **Developer Mindset:** Comfortable reading and writing code — experienced with **JavaScript, React, Node.js**, and **SQL**, enabling deeper collaboration with dev teams.  
-- **Project Management Experience:** Previously managed sprints, tracked deliverables, and facilitated agile ceremonies — I understand the full development lifecycle and how quality fits into it.  
+- **Project Management Experience:** Previously managed sprints, tracked deliverables and facilitated agile ceremonies — I understand the full development lifecycle and how quality fits into it.  
 
 
 ### 🧰  Tech Stack
