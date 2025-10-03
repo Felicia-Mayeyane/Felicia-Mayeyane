@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋  I'm Felicia. </h1>
-<h3 align="center">   Software Developer in Test (SDET) | Automation Enthusiast | Quality Advocate. </h3>
+<h3 align="center">   Software Developer in Test | Automation Enthusiast | Quality Advocate. </h3>
 
 
 ### 👩‍💻 About Me  
